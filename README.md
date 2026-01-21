@@ -32,3 +32,5 @@ This project is ideal for students and aspiring frontend developers as it demons
 Overall, this Personal Portfolio Website serves as a strong foundation for presenting professional skills and projects online, making it a valuable asset for job applications, internships, and academic evaluations.
 
 OUTPUT:
+
+<img width="1886" height="1100" alt="Image" src="https://github.com/user-attachments/assets/2d3af181-68c9-400f-8a69-ef1e3b43e021" />
